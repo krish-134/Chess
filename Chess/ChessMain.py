@@ -138,9 +138,6 @@ def main():
                     moveMade = False
                     animate = False
                     game_over = False
-                    # if ai_thinking:
-                    #     move_finder_process.terminate()
-                    #     ai_thinking = False
                     move_undone = True
 
         #AI move finder
