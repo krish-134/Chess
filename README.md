@@ -9,6 +9,7 @@ In this engine, the AI uses a min-max algorithm with alpha-beta pruning to get r
   - Shorten the image string length and adjust code accordingly
 - Create move ordering 
   - prioritize piece moves or attack moves instead of pawn moves
-Features to Include
+
+##Features to Include
 - Click and drag pieces
 - Allow player to choose moves in advance (while opponent makes their move)
